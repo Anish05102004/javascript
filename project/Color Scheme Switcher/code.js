@@ -22,4 +22,3 @@ buttons.forEach(function (button) {
     
   });
 });
-
