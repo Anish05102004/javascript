@@ -29,7 +29,6 @@ console.log(3
     //object
 
 
-
 console.log(typeof "Anish")  //string
 console.log(typeof 25)  //number
 console.log(typeof true)  //boolean
