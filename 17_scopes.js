@@ -52,4 +52,3 @@ addTwo(25) // hosting
 const addTwo = function (num){
     return num + 2
 }
-
