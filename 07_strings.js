@@ -38,4 +38,3 @@ console.log(url.includes('youtube'));
 
 
 console.log(url.split('=')); //splits the string into an array and returns the second element of the array
-
