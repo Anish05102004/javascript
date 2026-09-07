@@ -33,3 +33,4 @@ do {
     score1++
         
 } while (score1 <= 10);
+
