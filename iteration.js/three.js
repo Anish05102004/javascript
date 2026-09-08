@@ -44,3 +44,4 @@ const myoOject = {
 // for (const [key, value] of myObject) { // myObject is not defined
 //         console.log(key, ':-', value);
 //     }
+
