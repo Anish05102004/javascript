@@ -34,3 +34,4 @@ let someNumber = 33
 let stringNumber = String(someNumber)  // "33"
 console.log(typeof stringNumber)
 console.log(stringNumber)  // "33"
+
