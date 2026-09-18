@@ -47,3 +47,4 @@ console.log("B ",myarray)
 const myn2 = myarray.splice(1,3)/
 console.log("C ",myarray)
 console.log(myn2)
+
