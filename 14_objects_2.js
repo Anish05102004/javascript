@@ -58,3 +58,4 @@ console.log(Object.entries(tinderUser))//craete small array using key value and 
 
 
 console.log(tinderUser.hasOwnProperty('isLoggedIn'))
+
