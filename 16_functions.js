@@ -119,3 +119,4 @@ function returnsecondvalue(getarray){
 
 // console.log(returnsecondvalue(mynewarray))
 console.log(returnsecondvalue([200,400,600,458]))
+
