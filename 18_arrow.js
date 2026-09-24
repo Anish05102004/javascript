@@ -56,3 +56,4 @@ console.log(addTwo(5,8))
 // const Myarray = [1,2,5,6,8,5]
 
 // Myarray.forEach()
+
