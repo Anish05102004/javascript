@@ -19,3 +19,4 @@
     // simple iife or unnamed iife
     console.log(`DB3 CONNECTED ${name}`)
 })('anish')
+
