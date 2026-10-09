@@ -42,3 +42,4 @@ console.log(myTimeStamp);// returns the number of milliseconds since January 1, 
 console.log(myBirthday.getTime());// returns the number of milliseconds since January 1, 1970
 console.log(Math.floor(Date.now() / 1000));// returns the number of seconds since January 1, 1970
 
+
